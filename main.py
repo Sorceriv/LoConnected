@@ -4,6 +4,11 @@ import folium
 import datetime
 import time
 
+from geopy.gecoders import Nominatim
+
+def get_gps_coordinates(address):
+    geolocator
+
 def locationCoordinates():
     try:
         response = requests.get('https://ipinfo.io')
