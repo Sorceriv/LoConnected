@@ -7,7 +7,7 @@ import time
 from geopy.gecoders import Nominatim
 
 def get_gps_coordinates(address):
-    geolocator
+    return
 
 def locationCoordinates():
     try:
