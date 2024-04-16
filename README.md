@@ -1,5 +1,9 @@
 ﻿# LoConnected
 
+16/03/2024:
+
+--Experimenting with hiding API keys
+
 15/03/2024:
 
 --Hide API keys using .git_ignore and import (CURRENT, TESTING)
