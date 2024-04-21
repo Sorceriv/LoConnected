@@ -1,4 +1,8 @@
 # LoConnected
+21/04/2024:
+
+-On hold prioritizing QVA (Qualys Vulnerability Assistant)
+
 20/04/2024:
 
 --Experimenting with hiding api keys
