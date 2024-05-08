@@ -1,7 +1,12 @@
 # LoConnected
+
+08/05/2024:
+
+--Picking this up again
+
 21/04/2024:
 
--On hold prioritizing QVA (Qualys Vulnerability Assistant)
+--On hold prioritizing QVA (Qualys Vulnerability Assistant)
 
 20/04/2024:
 
