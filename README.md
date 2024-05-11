@@ -1,5 +1,8 @@
 # LoConnected
 
+11/05/2024:
+--Hidden API key by setting gitignore to hide XML files. Will find a way in a future to hide it in .env then referencing it in flutter to put in XML
+
 08/05/2024:
 
 --Picking this up again
