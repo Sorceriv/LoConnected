@@ -53,3 +53,9 @@ if __name__ == "__main__":
     time.sleep(4)
     dr.quit()
     print("\nBrowser Closed..............")
+
+
+# 15/04/2024
+# -Hide API keys using .git_ignore and import (CURRENT, TESTING)
+# -Cursor on portfolio is from a link, make it all auto
+# -Use different free map apis
