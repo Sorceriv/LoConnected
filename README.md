@@ -1,10 +1,35 @@
-﻿# LoConnected
+# LoConnected
 
-16/03/2024:
+08/05/2024:
+
+--Picking this up again
+
+21/04/2024:
+
+--On hold prioritizing QVA (Qualys Vulnerability Assistant)
+
+20/04/2024:
+
+--Experimenting with hiding api keys
+
+19/04/2024:
+
+--Experimenting with hiding api keys
+
+18/04/2024:
+
+--Experimenting with hiding api keys
+
+17/04/2024:
 
 --Experimenting with hiding API keys
 
-15/03/2024:
+
+16/04/2024:
+
+--Experimenting with hiding API keys
+
+15/04/2024:
 
 --Hide API keys using .git_ignore and import (CURRENT, TESTING)
 
