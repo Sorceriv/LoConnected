@@ -1,6 +1,7 @@
 # LoConnected
 
 12/05/2024:
+
 --Changed sdk version in android app-level build.gradle to 33 instead of flutter.target default, after that API key error encountered. Fix this
 
 11/05/2024:
