@@ -5,6 +5,7 @@
 --Changed sdk version in android app-level build.gradle to 33 instead of flutter.target default, after that API key error encountered. Fix this
 
 11/05/2024:
+
 --Hidden API key by setting gitignore to hide XML files. Will find a way in a future to hide it in .env then referencing it in flutter to put in XML
 
 08/05/2024:
